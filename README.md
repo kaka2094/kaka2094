@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋 Everyone</h1>
 <h5 align="center">A passionate UI/UX Designer from indonesian.</h5>
 
-<p align="left"> <img src="https://yaelahka.com/profile-views/index.svg&label=Profile%20views&color=0e75b6&style=flat" alt="kaka2094" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=kaka2094&label=Profile%20views&color=0e75b6&style=flat" alt="kaka2094" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kaka2094" alt="kaka2094" /></a> </p>
 
