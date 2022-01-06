@@ -12,8 +12,6 @@
 <a href="https://twitter.com/KakaMaulanaA1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="KakaMaulanaA1" height="30" width="40" /></a>
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kaka2094&show_icons=true&locale=en&layout=compact" alt="kaka2094" /></p>
-
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kaka2094&show_icons=true&locale=en" alt="kaka2094" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kaka2094&" alt="kaka2094" /></p>
